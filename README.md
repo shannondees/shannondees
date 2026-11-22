@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I’m a creative leader with more than 25 years of experience in games, digital products, UI/UX, branding, and marketing. I’ve contributed to titles including Halo Wars, and Words With Friends, led creative teams, and taught at SMU Guildhall. My work combines hands-on design and content creation with front-end development, helping me take ideas from concept through implementation.
 
-* 🌍  I'm based in United States
+* 🌍  I'm based in Dallas, TX USA
 * 🔗  See my portfolio at [shannondees.art](http://shannondees.art)
 * 🚀  I'm currently working on a myriad of private repositories for various companies as a freelancer/contracter
 * 🌱  I'm currently learning anything and everything I can at all times in perpetuity across all universes.
