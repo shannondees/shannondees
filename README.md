@@ -5,7 +5,7 @@
 
 **Artist. Nerd. Noetivore. Perpetually curious human.**
 
-I've spent 25+ years making things for people, working across game development, digital products, brand identity, UI/UX, creative direction, and software development.
+I've spent 25+ years making things people love, working across game development, digital products, brand identity, UI/UX, creative direction, and software development.
 
 My career has taken me from hands-on game art and animation to leading multidisciplinary creative teams, teaching at SMU Guildhall, building brands, developing products, and writing the code that brings those experiences to life.
 
