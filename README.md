@@ -3,7 +3,7 @@
 
 ### Creative Technologist · Artist · Designer · Developer
 
-**Artist. Nerd. Noetivore. Perpetually curious human.**
+**Artist. Nerd. Noetivore. Perpetually curious.**
 
 I've spent 25+ years making things people love, working across game development, digital products, brand identity, UI/UX, creative direction, and software development.
 
