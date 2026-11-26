@@ -1,38 +1,215 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shannon Dees
-=====================================================================================================================================
 
-✨ Artist, designer, developer
----------------------------
+# Hi, I'm Shannon Dees 👋
 
-I’m a creative leader with more than 25 years of experience in games, digital products, UI/UX, branding, and marketing. I’ve contributed to titles including Halo Wars, and Words With Friends, led creative teams, and taught at SMU Guildhall. My work combines hands-on design and content creation with front-end development, helping me take ideas from concept through implementation.
+### Creative Technologist · Artist · Designer · Developer
 
-* 🌍  I'm based in Dallas, TX USA
-* 🔗  See my portfolio at [shannondees.art](http://shannondees.art)
-* 🚀  I'm currently working on a myriad of private repositories for various companies as a freelancer/contracter
-* 🌱  I'm currently learning anything and everything I can at all times in perpetuity across all universes.
-* 👯  I'm looking to collaborate on interesting projects, [hit me up](oi@shannondees.art).
-* ⚡  Artist, Nerd, Noetivore
+**Artist. Nerd. Noetivore. Perpetually curious human.**
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" title="MetaMask" width="36" height="36" /></a><a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" alt="IPFS" title="IPFS" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" alt="Squarespace" title="Squarespace" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
- </p>
- 
- ### Socials
- 
-<p align="left"> <a href="https://www.github.com/shannondees" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/shannondees" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/shannondees" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/shannondees" target="_blank" rel="noreferrer"><img
- src="https://img.shields.io/github/followers/shannondees?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+I've spent 25+ years making things for people, working across game development, digital products, brand identity, UI/UX, creative direction, and software development.
 
-<b>My GitHub Stats</b>
+My career has taken me from hands-on game art and animation to leading multidisciplinary creative teams, teaching at SMU Guildhall, building brands, developing products, and writing the code that brings those experiences to life.
 
-<a href="http://www.github.com/shannondees"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shannondees&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+I've contributed to titles including *Halo Wars*, *BloodRayne*, *Brothers in Arms*, *Words With Friends*, *Wordscapes*, and *Lucky's Tale*.
 
-### Support Me
+These days, I work at the intersection of art, design, technology, and AI. I'm particularly interested in how emerging technologies can empower smaller teams to build more ambitious, thoughtful, and genuinely enjoyable experiences.
 
-<ul style="list-style-type: none; margin: 0;">
+I like making things. I like figuring out how things work. I especially like making things work better.
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/shannondees"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+📍 Dallas, TX, USA
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/shannondees"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+🌐 [shannondees.art](https://shannondees.art)
 
-</ul>
+📫 [Get in touch](mailto:oi@shannondees.art)
+
+---
+
+## What I Do
+
+### Creative Direction & Leadership
+
+- Creative strategy and art direction
+- Brand identity and scalable visual systems
+- Creative team leadership and mentorship
+- Internal and external production management
+- Creative standards, pipelines, and documentation
+- Cross-functional collaboration between design and engineering
+- Product strategy, research, and development
+
+I've led internal creative teams of 20+ people, managed external artists and development partners, and helped establish production practices that balance creative ambition with the realities of actually shipping something.
+
+### Art, Design & User Experience
+
+- Game art, character design, and world-building
+- UI/UX and interaction design
+- Design systems and component libraries
+- Responsive web and mobile experiences
+- Illustration, animation, and motion graphics
+- Digital marketing and content production
+- Gamification and educational experiences
+
+I believe good design should be intentional, approachable, functional, and, whenever possible, a little unexpected.
+
+### Software & Product Development
+
+- Frontend and backend development
+- Web and mobile application development
+- API integration and data-driven experiences
+- Database-backed features and services
+- Interactive tools and internal dashboards
+- Rapid prototyping and proof-of-concept development
+- Technical documentation and implementation planning
+- AI-assisted software engineering
+
+My development work extends beyond implementing interfaces. I contribute across the application stack, connecting the creative vision to the underlying systems, services, and functionality that make a product work.
+
+---
+
+## AI, Automation & Generative Workflows
+
+AI has become an integral part of how I design, develop, experiment, and solve problems.
+
+I'm not particularly interested in using AI simply to make more stuff. I'm interested in building better systems for making stuff.
+
+My recent work includes:
+
+- **AI-assisted development** — Using coding agents and large language models to explore codebases, implement features, debug systems, refactor code, and accelerate development across the frontend and backend.
+
+- **Generative asset pipelines** — Designing repeatable, API-driven workflows for generating game assets, character variations, illustrations, environments, and production-ready visual content.
+
+- **Structured prompt systems** — Developing reusable prompts, visual guardrails, style constraints, and parameter-driven generation workflows that support consistency at scale.
+
+- **Agent-driven development** — Creating product requirements, technical specifications, implementation plans, and agent instructions that give AI coding tools the context needed to work effectively.
+
+- **Creative automation** — Reducing repetitive production work through intelligent tooling, structured workflows, and automated asset generation.
+
+- **Quality control** — Applying human art direction, code review, testing, and iterative refinement to AI-generated outputs.
+
+AI is a tool, not a substitute for taste, experience, critical thinking, or creative intent. Knowing what to make, why you're making it, and when something isn't good enough still matters.
+
+---
+
+## Skills & Tools
+
+### Languages & Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### Backend, Data & Infrastructure
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+### AI & Generative Technologies
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-202020?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Midjourney](https://img.shields.io/badge/Midjourney-202020?style=flat-square)
+![Adobe Firefly](https://img.shields.io/badge/Adobe_Firefly-FF0000?style=flat-square)
+
+LLMs · Generative Image Models · AI Agents · Prompt Systems · Workflow Automation · API Integration · AI-assisted Development
+
+### Design & Creative Production
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-202020?style=flat-square)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
+### Web Platforms & Visual Development
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat-square&logo=squarespace&logoColor=white)
+
+### Development Environments & Other Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square)
+
+---
+
+## What I'm Working On
+
+My current work spans a variety of independent and client projects, including:
+
+- AI-powered creative production tools
+- Games and interactive entertainment
+- Educational games and gamified learning experiences
+- Web and mobile applications
+- Generative content and asset production systems
+- Brand identities and scalable design systems
+- Full-stack product development
+- Experiments in making technology a little more human
+
+Much of my professional development work takes place in private repositories. Out of respect for clients, collaborators, and intellectual property, proprietary source code and confidential project details aren't represented in my public GitHub profile.
+
+Selected public-facing creative and professional work can be found at [shannondees.art](https://shannondees.art).
+
+---
+
+## A Few Things I Believe
+
+- Good design is as much about how something works as how it looks.
+- Creativity and technical proficiency aren't mutually exclusive.
+- Systems should empower people, not constrain them.
+- Small teams can do extraordinary things with the right tools.
+- Automation should give us more time to be creative, not less.
+- Technology should make people's lives better, easier, or more enjoyable.
+- There is always something new to learn.
+
+I'm currently learning anything and everything I can, at all times, in perpetuity, across all universes.
+
+---
+
+## Let's Connect
+
+I'm always interested in collaborating with curious people on interesting things, especially projects that challenge the boundaries between creativity, technology, and play.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shannondees.art-E20050?style=for-the-badge)](https://shannondees.art)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shannondees)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/shannondees)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shannondees)
+[![Email](https://img.shields.io/badge/Email-202020?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:oi@shannondees.art)
+
+---
+
+## Support My Experiments
+
+If something I've made has been useful, entertaining, or just made your day a little better, you're welcome to fuel my perpetual curiosity.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/shannondees)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://www.ko-fi.com/shannondees)
+
+---
+
+*Always creating. Always learning. Occasionally sleeping.*
